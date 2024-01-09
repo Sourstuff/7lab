@@ -1,0 +1,10 @@
+200
+0 0 0 0 0 0 0 0 0 0
+0 0 R R R R R R 0 0
+0 R Y Y Y Y Y Y R 0
+0 R Y R R R Y R R 0
+0 R Y R G R Y R R 0
+0 R Y R R R Y R R 0
+0 R Y Y Y Y Y R R 0
+0 0 R R R G R R 0 0
+0 0 0 0 0 0 0 0 0 0

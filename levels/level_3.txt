@@ -1,0 +1,10 @@
+400
+0 0 0 0 0 0 0 0 0 0
+0 0 0 0 Y Y 0 0 0 0
+0 0 0 Y Y Y Y 0 0 0
+Y 0 R Y Y Y Y R 0 Y
+Y 0 R Y Y G Y R 0 Y
+Y 0 R Y G Y Y R 0 Y
+Y 0 R Y Y Y Y R 0 Y
+0 0 0 Y Y Y Y 0 0 0
+0 0 0 0 Y Y 0 0 0 0
